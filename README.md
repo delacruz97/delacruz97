@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @delacruz97
 - 👀 me interesaria, poder crear un proyecto grande.
-- 🌱 I’m currently learning  java y python, tambien me estoy enfocando en lenguaje html y css, aparte del  lenguaje MySql.
+- 🌱  Especializándome en JS, HTML, CSS, Node, React, Redux, SQL. 
 - 💞️ I’m looking to collaborate on  algun proyecto, para poder  especializarme mas y  para trabajar en equipo.
 - 📫 How to reach me : emilianobaneki@gmail.com
 
